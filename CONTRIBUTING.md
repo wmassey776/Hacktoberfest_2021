@@ -3,34 +3,22 @@
 
 ## Quality Standards
 
+In line with Hacktoberfest value #2 (Quantity is fun, quality is key), we have provided examples of the pull requests that we consider to be low quality contributions (which we discourage and may be marked as spam by maintainers).
+
+### examples of low quality contributions
+
+❌ Pull requests that are automated e.g. scripted opening pull requests to remove whitespace / fix typos / optimize images.    
+❌ Pull requests that are disruptive e.g. taking someone else's branch/commits and making a pull request.     
+❌ Pull requests that are regarded by a project maintainer as a hindrance vs. helping.     
+❌ Something that's clearly an attempt to simply +1 your pull request count for October.      
+❌ Last but not least, one pull request to fix a typo is fine, but 5 pull requests to remove a stray whitespace is not.      
+
+
+
+
+## Rules and Guidelines for Code Submissions
+
 - Don't plagiarize 
-- Be original 
-- Different variations of already submitted code are welcomed!
-- There is no code length requirement
-- Multiple submissions are welcome
-- Just showcase your Python skill
 - Have fun! 🎃
 
-## Need some ideas?
-
-Here are just a few ideas to get you started!
-
-- Dice Rolling Simulator 
-- Leap Year Calculator
-- Mad Libs Generator 
-- Message Encode Decode 
-- Magic 8 Ball Game
-- Arithmetic Calculator
-- String Reversal Program
-- Number Guessing Game
-- Choice-based Games
-- Guess the Word/Hangman
-- Rock, Paper, Scissors
-- Fibonacci Number Generator
-- Days Calculator
-- Sorting a List of Elements
-- Tic-Tac-Toe
-- Binary Search
-- Pattern Printer
-- Quiz 
 
