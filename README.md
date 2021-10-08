@@ -80,12 +80,12 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 
 
 ## Contact me 
-🌎 If you have any questions about this project, feel free to get in touch.
+If you have any questions about this project, feel free to get in touch.
 
 [![Gmail](https://img.shields.io/badge/-blue?&labelColor=black&label=Gmail&logo=gmail&logoColor=white)](mailto:seraph776)
 
 ---
 ## License  
-⚖️This project is licensed under the MIT License.
+This project is licensed under the MIT License.
 
 [![MIT-License](https://img.shields.io/badge/License-blue?&labelColor=black&label=MIT&logo=docusign&logoColor=white)](https://github.com/seraph776/Hacktoberfest_2021/blob/main/LICENSE)
