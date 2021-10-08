@@ -4,8 +4,7 @@
 
 
 ## Background Info 
-⭐ Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.
-Create a Pytho Project of your choice, and make a pull request!
+⭐ Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, you are invited to join the developer community by contributing to open-source projects. Create a Python Project of your choice, and make a pull request and contribute to this repo!
 
 
 ---
