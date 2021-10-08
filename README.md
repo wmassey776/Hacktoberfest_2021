@@ -10,9 +10,12 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 ---
 
 ## ✅ Requirements
- Projects must be developed using Python only!
 
 ![made-with-Python](https://img.shields.io/badge/-blue?&labelColor=black&label=Python&logo=python&logoColor=white)
+
+ Projects must be developed using Python only!
+
+
 
 
 
