@@ -87,4 +87,4 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 ## License  
 ⚖️This project is licensed under the MIT License.
 
-[![MIT-License](https://img.shields.io/badge/License-blue?&labelColor=black&label=MIT&logo=docusign&logoColor=white)](https://raw.githubusercontent.com/seraph776/PROJECTNAME/main/LICENSE)
+[![MIT-License](https://img.shields.io/badge/License-blue?&labelColor=black&label=MIT&logo=docusign&logoColor=white)](https://github.com/seraph776/Hacktoberfest_2021/blob/main/LICENSE)
