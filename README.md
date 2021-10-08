@@ -23,7 +23,7 @@
  
 This is an Open Source project. [**Folk this Repo**](https://github.com/seraph776/Hacktoberfest_2021) by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 
-![image](https://user-images.githubusercontent.com/72005563/136485200-6c19b2a8-1164-43c4-9b86-e633dd3b805d.png)
+![image](https://user-images.githubusercontent.com/72005563/136487383-4161c010-ffc5-40cb-bd1f-4f1ac0a4429f.png)
 
 
 ### 2. Clone the Repository
