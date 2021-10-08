@@ -21,7 +21,7 @@
 
 ### 1. Folk this Repository
  
-This is an Open Source project. [**Folk this Repo**](https://github.com/seraph776/Hacktoberfest_2021) by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
+Folk this Repo by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 
 ![image](https://user-images.githubusercontent.com/72005563/136487383-4161c010-ffc5-40cb-bd1f-4f1ac0a4429f.png)
 
