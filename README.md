@@ -74,7 +74,7 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 ### Congratulations! 
 🥳 You just completed the standard fork -> clone -> edit -> pull request workflow that you'll encounter often as a contributor!
 
- <details>
+</details>
   
 ---
 
