@@ -1,4 +1,4 @@
-# heapify
+# USing heapify method.
 def heapify(arr, n, i):
    largest = i # largest value
    l = 2 * i + 1 # left child
