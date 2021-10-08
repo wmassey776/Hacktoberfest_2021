@@ -12,7 +12,7 @@
 ## Requirements
 ✅ Projects must be developed using:
 
-![made-with-Python](https://img.shields.io/badge/3.0+-blue?&labelColor=black&label=Python&logo=python&logoColor=white)
+![made-with-Python](https://img.shields.io/badge/-blue?&labelColor=black&label=Python&logo=python&logoColor=white)
 
 
 
@@ -78,8 +78,6 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 ## Contact me 
 🌎 If you have any questions about this project, feel free to get in touch.
 
-
-[![Gmail](https://img.shields.io/badge/-blue?&labelColor=black&label=Gmail&logo=gmail&logoColor=white)](mailto:seraph776)
 [![GitHub](https://img.shields.io/badge/-blue?&labelColor=black&label=GitHub&logo=github&logoColor=white)](https://github.com/seraph776) 
 
 
