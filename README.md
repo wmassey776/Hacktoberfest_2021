@@ -70,7 +70,20 @@ replacing `<BRANCH_NAME>` with the name of the branch you created earlier.
 ### 6. Submit your Changes for Review
 If you go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button. Then submit your pull request.
 
+![Pull Request](https://user-images.githubusercontent.com/72005563/136486518-f0b426d8-20ce-4a50-9651-83f9959dfc9a.jpg)
+
+![Pull Request](https://user-images.githubusercontent.com/72005563/136486568-8c0cdcd0-c26d-4c48-9def-0b56da4db1f1.jpg)
+
+
+
+
+## Congratulations 
+🥳 You just completed the standard fork -> clone -> edit -> pull request workflow that you'll encounter often as a contributor!
+
+
 ---
+
+
 ## Contact me 
 🌎 If you have any questions about this project, feel free to get in touch.
 
