@@ -3,14 +3,14 @@
 <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
 
 
-## Background Info 
-🎃 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, you are invited to join the developer community by contributing to open-source projects. Create a Python Project of your choice, and make a pull request and contribute to this repo!
+## 🎃 Background Info 
+Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, you are invited to join the developer community by contributing to open-source projects. Create a Python Project of your choice, and make a pull request and contribute to this repo!
 
 
 ---
 
-## Requirements
-✅ Projects must be developed using:
+## ✅ Requirements
+ Projects must be developed using Python only!
 
 ![made-with-Python](https://img.shields.io/badge/-blue?&labelColor=black&label=Python&logo=python&logoColor=white)
 
@@ -18,6 +18,9 @@
 
 ---
 ## ⭐ Instructions
+
+<details>
+  <summary>Click to view Instructions</summary>
 
 ### 1. Folk this Repository
  
@@ -65,13 +68,10 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 
 ![Pull Request](https://user-images.githubusercontent.com/72005563/136486568-8c0cdcd0-c26d-4c48-9def-0b56da4db1f1.jpg)
 
-
-
-
-## Congratulations 
+### Congratulations! 
 🥳 You just completed the standard fork -> clone -> edit -> pull request workflow that you'll encounter often as a contributor!
 
-
+ <details>
 ---
 
 
