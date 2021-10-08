@@ -2,7 +2,7 @@
 # Welcome to Hacktoberfest 2021
 
 ## ✅ Submission Requirements
-- Must be developed in ![made-with-Python](https://img.shields.io/badge/-blue?&labelColor=black&label=Python&logo=python&logoColor=white)
+- Projects must be developed in Python
 - Don't plagiarize 
 - Have fun! 🎃
 
