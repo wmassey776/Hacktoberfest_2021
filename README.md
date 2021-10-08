@@ -80,7 +80,6 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 
 [![Gmail](https://img.shields.io/badge/-blue?&labelColor=black&label=Gmail&logo=gmail&logoColor=white)](mailto:seraph776)
 
-z
 ---
 ## License  
 ⚖️This project is licensed under the MIT License.
