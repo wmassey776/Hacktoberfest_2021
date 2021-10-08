@@ -13,7 +13,6 @@ def guess_number() -> None:
     guesses = 7  # Number of guesses        
     secret_number = randint(low, high)
     
-
     print(f'''I'm thinking of a secret number between {low} and {high}. You have
 {guesses} chances to guess the number. Good luck! ''')
 
