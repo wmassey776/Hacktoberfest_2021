@@ -4,7 +4,7 @@
 
 
 ## 🎃 Background Info 
-Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, you are invited to join the developer community by contributing to open-source projects. Create a Python Project of your choice, and make a pull request and contribute to this repo!
+Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, you are invited to join the developer community by contributing to open-source projects. Create a Python Project of your choice, and make a pull request and contribute to this repo! Please read the [CONTRIBUTING.md](https://github.com/seraph776/Hacktoberfest_2021/blob/main/CONTRIBUTING.md) for contributing guidelines.
 
 
 ---
@@ -20,7 +20,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 ## ⭐ Instructions
 
 <details>
-  <summary>Click to view Instructions</summary>
+  <summary>Click to view Instructions!</summary>
 
 ### 1. Folk this Repository
  
