@@ -1,19 +1,20 @@
 ![](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 # Welcome to Hacktoberfest 2021
 
-## Submission Guidelines
+## Quality Standards
 
-- Submit your original work
-- Add your submission to `code` directory
-- There is no length requirement, however, `hello_wprl.py` programs will not accepted
-- Just showcase your python skill and have fun!
+- Don't plagiarize 
+- Be original 
+- Different variations of already submitted code are welcomed!
+- There is no code length requirement
+- Multiple submissions are welcome
+- Just showcase your Python skill
+- Have fun! 🎃
 
 ## Need some ideas?
 
-Here are just a few ideas for code submissions:
+Here are just a few ideas to get you started!
 
-- Hangman  
-- Rock Paper Scissors
 - Dice Rolling Simulator 
 - Leap Year Calculator
 - Mad Libs Generator 
@@ -31,4 +32,5 @@ Here are just a few ideas for code submissions:
 - Tic-Tac-Toe
 - Binary Search
 - Pattern Printer
-- Quiz
+- Quiz 
+
