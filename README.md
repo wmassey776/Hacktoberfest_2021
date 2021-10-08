@@ -31,9 +31,9 @@ This is an Open Source project. [**Folk this Repo**](https://github.com/seraph77
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon.
 Open a terminal and run the following git command:
 
-- `git clone https://github.com/<USERNAME>/Hacktoberfest_2021.git`
+- `git clone https://github.com/{username}/Hacktoberfest_2021.git`
 
-Where `<USERNAME>` is your GitHub username. This copies the contents of the Hacktoberfest repository on GitHub to your computer.
+Where `{username}` is your GitHub username. This copies the contents of the Hacktoberfest repository on GitHub to your computer.
 
 ### 3. Create a branch
 Change to the repository directory on your computer (if you are not already there):
@@ -41,31 +41,22 @@ Change to the repository directory on your computer (if you are not already ther
 - `cd Hacktoberfest_2021`
 
 Now create a branch using the git checkout command:
-- `git checkout -b <BRANCH_NAME>`
+- `git checkout -b {branch-name}`
 
-Where `<BRANCH_NAME>` is your branch name.
+Where `{branch-name}` is your branch name.
 
 
 ### 4. Create your Python project
 Create a Python script of your choice. When you are done, Add the changes to the branch you just created using the git add command:
-- `git add <FILE_NAME>`
+- `git add <filename>`
 
-Where `<FILE_NAME>` is the name of your file.
-Now commit your changes using the `git command`
-- `git commit -m "Adding <FILE_NAME>"`
+Now commit your changes using the `git command`:
+- `git commit -m "Adding <filename>"`
 
-Again, where `<FILE_NAME>` is the name of your file.
+### 5. Push changes on forked Repo 
 
+- `git push -u origin {branch-name}`
 
-### 5. Push changes to GitHub 
-Push branch upstream for first time
-- `git push --set-upstream origin <BRANCH_NAME>`
-
-Push your changes using the command git push:
-
-- `git push origin <BRANCH_NAME>`
- 
-replacing `<BRANCH_NAME>` with the name of the branch you created earlier.
 
 ### 6. Submit your Changes for Review
 If you go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button. Then submit your pull request.
