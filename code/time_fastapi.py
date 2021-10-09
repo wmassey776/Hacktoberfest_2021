@@ -1,4 +1,4 @@
-""" Simple API made with FastAPI to return the local time"""
+""" Simple API made with FastAPI to return time, either local or in a specified UTC timezone"""
 
 import fastapi
 import time
