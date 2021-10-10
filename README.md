@@ -54,7 +54,7 @@ Where `{branch-name}` is your branch name.
 
 
 ### 4. Add your Contribution
-Either add your name to the `CONTRIBUTORS.md` file or add a Python script of your choice. When you are done, Add the changes to the branch you just created using the git add command:
+Either add your name to the `CONTRIBUTORS.md` file or add a small `Python` program of your choice. When you are done, Add the changes to the branch you just created using the git add command:
 - `git add <filename>`
 
 Now commit your changes using the `git command`:
@@ -73,7 +73,7 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 ![Pull Request](https://user-images.githubusercontent.com/72005563/136486568-8c0cdcd0-c26d-4c48-9def-0b56da4db1f1.jpg)
 
 ### Congratulations! 
-🤩 You just completed the standard fork -> clone -> edit -> pull request workflow that you'll encounter often as a contributor!
+🤩 You just completed the standard fork _-> clone -> edit ->_ pull request workflow that you'll encounter often as a contributor!
 
 </details>
   
