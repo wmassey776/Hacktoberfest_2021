@@ -12,6 +12,7 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 > - Location: City, State, Country
 > - GitHub: [GitHub Account Name](your-GitHub-link)
 
+
 ## Add Your Names Below 👇
 
 ---
@@ -21,4 +22,8 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 - GitHub: [wmassey](https://github.com/wmassey776)
 
 
+
+#### Name: RUDRANSH SRIVASTAVA
+> - Location: Prayagraj, Uttar Pradesh, INDIA
+> - GitHub: [RUDRANSH-HUB](https://github.com/RUDRANSH-hub)
 
