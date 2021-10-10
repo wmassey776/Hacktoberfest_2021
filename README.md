@@ -73,12 +73,11 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 ![Pull Request](https://user-images.githubusercontent.com/72005563/136486568-8c0cdcd0-c26d-4c48-9def-0b56da4db1f1.jpg)
 
 ### Congratulations! 
-🥳 You just completed the standard fork -> clone -> edit -> pull request workflow that you'll encounter often as a contributor!
+🤩 You just completed the standard fork -> clone -> edit -> pull request workflow that you'll encounter often as a contributor!
 
 </details>
   
 ---
-
 
 ## Reference Links
 - Here is a great tutorial for creating your first pull request by [Roshan Josse](https://github.com/firstcontributions/first-contributions)
@@ -88,9 +87,19 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 - [Creating a Branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches#creating-a-branch)
 - [Pushing commits](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
 
-
 ---
+  
+## Contributors
+<a href = "https://github.com/seraph776/Hacktoberfest_2021/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo=seraph776/Hacktoberfest_2021"/>
+</a>
+ 
+  
+  
 ## License  
-This project is licensed under the [MIT](https://github.com/seraph776/Hacktoberfest_2021/blob/main/LICENSE) License.
+<a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Public_Domain_Mark_button.svg/1280px-Public_Domain_Mark_button.svg.png" height="30" width="100"></a>
+  
+  
+This project is Public Domain and licensed under the [MIT](https://github.com/seraph776/Hacktoberfest_2021/blob/main/LICENSE) License.
 
 
