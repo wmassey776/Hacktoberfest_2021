@@ -53,8 +53,8 @@ Now create a branch using the git checkout command:
 Where `{branch-name}` is your branch name.
 
 
-### 4. Create your Python project
-Create a Python script of your choice. When you are done, Add the changes to the branch you just created using the git add command:
+### 4. Add your Contribution
+Either add your name to the `CONTRIBUTORS.md` file or add a Python script of your choice. When you are done, Add the changes to the branch you just created using the git add command:
 - `git add <filename>`
 
 Now commit your changes using the `git command`:
