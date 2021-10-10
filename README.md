@@ -1,26 +1,27 @@
-# Hacktoberfest 2021
+<div align="center">
+
+# 🎃 Open-Source Celebration  🎃
+
+</div>
 
 <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
 
 
-## 🎃 Background Info 
-Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, you are invited to join the developer community by contributing to open-source projects. Create a Python Project of your choice, and make a pull request and contribute to this repo! Please read the [CONTRIBUTING.md](https://github.com/seraph776/Hacktoberfest_2021/blob/main/CONTRIBUTING.md) for contributing guidelines.
+## 🎃 What is Hacktoberfest?
+Hacktoberfest A month-long celebration of open source software from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com) and [GitHub](https://github.blog/2017-09-27-celebrate-open-source-this-october-with-hacktoberfest/) to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community. 
+
+## How to contribute to this project
+There are two (2) ways to contribute to this project:
+
+- Add your name to `CONTRIBUTORS.md` file
+- Add a small `Python` project/script of your choice
+
+
+<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="30" width="100">
 
 
 ---
-
-## ✅ Requirements
-
-![made-with-Python](https://img.shields.io/badge/-blue?&labelColor=black&label=Python&logo=python&logoColor=white)
-
- Projects must be developed using Python only!
-
-
-
-
-
----
-## ⭐ Instructions
+## 👉 Getting Started
 
 <details>
   <summary>Click to view Instructions!</summary>
@@ -79,13 +80,17 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 ---
 
 
-## Contact me 
-If you have any questions about this project, feel free to get in touch.
+## Reference Links
+- Here is a great tutorial for creating your first pull request by [Roshan Josse](https://github.com/firstcontributions/first-contributions)
 
-[![Gmail](https://img.shields.io/badge/-blue?&labelColor=black&label=Gmail&logo=gmail&logoColor=white)](mailto:seraph776)
+- [Folking a Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)
+- [Cloning Your Folked Repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository)
+- [Creating a Branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches#creating-a-branch)
+- [Pushing commits](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
+
 
 ---
 ## License  
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](https://github.com/seraph776/Hacktoberfest_2021/blob/main/LICENSE) License.
 
-[![MIT-License](https://img.shields.io/badge/License-blue?&labelColor=black&label=MIT&logo=docusign&logoColor=white)](https://github.com/seraph776/Hacktoberfest_2021/blob/main/LICENSE)
+
