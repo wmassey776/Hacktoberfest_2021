@@ -17,9 +17,7 @@ There are two (2) ways to contribute to this project:
 - Add a small `Python` project/script of your choice
 
 
-
- <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="30" width="100">
-
+<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="30" width="100">
 
 
 ---
