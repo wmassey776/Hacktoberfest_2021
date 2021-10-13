@@ -51,10 +51,11 @@ def parse_arguments():
                                      description="""An affine cipher encrypts a message with the following equation `(ax+b) % m`.
                                                     Decryption is done with `(a^-1)(x-b) % m`. `m` is the length of the alphabet used.""")
 
-    parser.add_argument('mode', help="<decrypt> | <encrypt>")
+    parser.add_argument('mode', help="<decrypt> | <encrypt>", type=str)
     parser.add_argument('a', type=int)
     parser.add_argument('b', type=int)
     parser.add_argument('message', type=str)
+    parser.add_argument('--alphabet', help="Alphabet used. (default = 'a-Z 1-9 ` `)", type=str)
 
     args = parser.parse_args()
 
@@ -66,7 +67,10 @@ def parse_arguments():
 if __name__ == "__main__":
     args = parse_arguments()
     
-    affine_cipher = AffineCipher(a=args.a, b=args.b, message=args.message)
+    if args.alphabet == None:
+        affine_cipher = AffineCipher(a=args.a, b=args.b, message=args.message)
+    else:
+        affine_cipher = AffineCipher(a=args.a, b=args.b, message=args.message, alphabet=args.alphabet)
 
     if args.mode == 'encrypt':
         print(affine_cipher.encrypt())
