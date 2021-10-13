@@ -1,4 +1,5 @@
 import pydantic
+import argparse
 from typing import Optional
 
 class CoprimeError(Exception):
@@ -38,12 +39,36 @@ class AffineCipher(pydantic.BaseModel):
     def encrypt(self):
         coded_message_numbered = [(self.a * self.letter_to_index(letter) + self.b) % len(self.alphabet) for letter in self.message]
         
-        return "".join([self.index_to_letter(index) for index in coded_message])
+        return "".join([self.index_to_letter(index) for index in coded_message_numbered])
 
     def decrypt(self):
         decrypted_message_numbered = [(pow(self.a, -1, len(self.alphabet)) * (self.letter_to_index(letter) - self.b)) % len(self.alphabet) for letter in self.message]
 
         return "".join([self.index_to_letter(index) for index in decrypted_message_numbered])
 
-affine_cipher = AffineCipher(a=5, b=8, message="GeetS dQtbo l")
-print(affine_cipher.decrypt())
+def parse_arguments():
+    parser = argparse.ArgumentParser(exit_on_error=True,
+                                     description="""An affine cipher encrypts a message with the following equation `(ax+b) % m`.
+                                                    Decryption is done with `(a^-1)(x-b) % m`. `m` is the length of the alphabet used.""")
+
+    parser.add_argument('mode', help="<decrypt> | <encrypt>")
+    parser.add_argument('a', type=int)
+    parser.add_argument('b', type=int)
+    parser.add_argument('message', type=str)
+
+    args = parser.parse_args()
+
+    if args.mode not in ['decrypt', 'encrypt']:
+        parser.error(f"Mode can't be `{args.mode}`. Only accepted values are `decrypt` or `encrypt`")
+
+    return args
+
+if __name__ == "__main__":
+    args = parse_arguments()
+    
+    affine_cipher = AffineCipher(a=args.a, b=args.b, message=args.message)
+
+    if args.mode == 'encrypt':
+        print(affine_cipher.encrypt())
+    elif args.mode == 'decrypt':
+        print(affine_cipher.decrypt())
