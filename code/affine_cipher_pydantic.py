@@ -55,7 +55,7 @@ def parse_arguments():
     parser.add_argument('a', type=int)
     parser.add_argument('b', type=int)
     parser.add_argument('message', type=str)
-    parser.add_argument('--alphabet', help="Alphabet used. (default = 'a-Z 1-9 ` `)", type=str)
+    parser.add_argument('--alphabet', help="Alphabet used. (default = `a-Z` and <space>)", type=str)
 
     args = parser.parse_args()
 
