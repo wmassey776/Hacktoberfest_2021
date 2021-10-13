@@ -51,7 +51,7 @@ def parse_arguments():
                                      description="""An affine cipher encrypts a message with the following equation `(ax+b) % m`.
                                                     Decryption is done with `(a^-1)(x-b) % m`. `m` is the length of the alphabet used.""")
 
-    parser.add_argument('mode', help="<decrypt> | <encrypt>", type=str)
+    parser.add_argument('mode', help="decrypt | encrypt", type=str)
     parser.add_argument('a', type=int)
     parser.add_argument('b', type=int)
     parser.add_argument('message', type=str)
