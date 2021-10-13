@@ -22,12 +22,15 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 - GitHub: [wmassey](https://github.com/wmassey776)
 
 
-
 #### Name: RUDRANSH SRIVASTAVA
 > - Location: Prayagraj, Uttar Pradesh, INDIA
 > - GitHub: [RUDRANSH-HUB](https://github.com/RUDRANSH-hub)
+
 
 #### Name: Divyaant Kumar Jain
 > - Location: Haryana, INDIA
 > - GitHub: [Divyaantkj01](https://github.com/Divyaantkj01)
 
+#### Name: Benjamin Kaganovitch
+> - Location: Winnipeg, MB, Canada
+> - GitHub: [BenjaminKaganovitch](https://github.com/BenjaminKaganovitch)
