@@ -27,3 +27,7 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 > - Location: Prayagraj, Uttar Pradesh, INDIA
 > - GitHub: [RUDRANSH-HUB](https://github.com/RUDRANSH-hub)
 
+#### Name: Benjamin Kaganovitch
+> - Location: Winnipeg, MB, Canada
+> - GitHub: [BenjaminKaganovitch](https://github.com/BenjaminKaganovitch)
+
