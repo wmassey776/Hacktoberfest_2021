@@ -27,3 +27,7 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 > - Location: Prayagraj, Uttar Pradesh, INDIA
 > - GitHub: [RUDRANSH-HUB](https://github.com/RUDRANSH-hub)
 
+#### Name: Divyaant Kumar Jain
+> - Location: Haryana, INDIA
+> - GitHub: [Divyaantkj01](https://github.com/Divyaantkj01)
+
