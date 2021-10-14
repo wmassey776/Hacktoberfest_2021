@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+"""Original source: seraph★776, email: seraph776@gmail.com, github: https://github.com/seraph776
+
 from random import randint
 import sys
 
