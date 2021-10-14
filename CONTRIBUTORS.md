@@ -18,8 +18,8 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 ---
 
 #### Name: Will Massey
-- Location: Providence, RI, USA
-- GitHub: [wmassey](https://github.com/wmassey776)
+> - Location: Providence, RI, USA
+> - GitHub: [wmassey](https://github.com/wmassey776)
 
 
 #### Name: RUDRANSH SRIVASTAVA
