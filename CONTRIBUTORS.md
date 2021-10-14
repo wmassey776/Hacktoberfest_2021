@@ -4,7 +4,7 @@
 ![Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
 
-## Instructions 
+## Instructions
 
 Add your name to the CONTRIBUTORS.md file using the following format below:
 
@@ -31,6 +31,12 @@ Add your name to the CONTRIBUTORS.md file using the following format below:
 > - Location: Haryana, INDIA
 > - GitHub: [Divyaantkj01](https://github.com/Divyaantkj01)
 
+
 #### Name: Benjamin Kaganovitch
 > - Location: Winnipeg, MB, Canada
 > - GitHub: [BenjaminKaganovitch](https://github.com/BenjaminKaganovitch)
+
+
+#### Name: William Jaber
+> - Location: Medellín, Antioquia, Colombia
+> - GitHub: [WilliamJaber](https://github.com/WilliamJaber)
